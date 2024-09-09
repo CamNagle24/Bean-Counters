@@ -1,7 +1,7 @@
 # Bean-Counters
 Operator overloading constructors to count bean objects using dynamic memory.
 
-<img src="assets/beans.png" width="500">
+<img src="assets/Beans.png" width="500">
 
 Dynamic Memory Management: Through the BeanCounter class, I learned to handle dynamic memory using constructors, destructors, and memory-releasing practices.
 
