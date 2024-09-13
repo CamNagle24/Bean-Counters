@@ -1,6 +1,6 @@
 //Cameron Nagle
 //4/27/2023
-//hw7 this program takes in the number of counters to help them count different types of beans
+//This program takes in the number of counters to help them count different types of beans
 #include <iostream>
 #include "BeanCounter.hpp"    //include the function definitions BeanCounter class
 using namespace std;
